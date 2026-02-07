@@ -2,7 +2,7 @@
 
 **Live Demo:** # Sharestuff | Peer-to-Peer Luggage Storage Marketplace
 
-**Live Demo:** [https://main.d1m7b.amplifyapp.com](https://github.com/mehrabmkhan/sharestuff-v1-stable)
+**Live Demo:** https://main.d1g32r210w9mwh.amplifyapp.com/
 
 Sharestuff is a high-performance, decentralized marketplace connecting travelers with verified local hosts for secure luggage storage. Built with a focus on trust, scalability, and modern UI/UX, this platform provides a seamless "check-in/check-out" experience using web-based QR scanning and dynamic insurance tiering.
 
