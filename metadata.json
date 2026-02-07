@@ -1,0 +1,8 @@
+{
+  "name": "Sharestuff - Peer-to-Peer Luggage Storage",
+  "description": "A Series-A ready luggage storage marketplace connecting travelers with local hosts. Features interactive maps, glassmorphism UI, and AI-powered storage summaries.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
